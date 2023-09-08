@@ -8,42 +8,41 @@ What you'll learn
 - Communicate insights from data analysis to stakeholders
 
 
-Foundations of Data Science
+#### Foundations of Data Science
 Course 1
 •
 22 hours
 •
 
-Get Started with Python
+#### Get Started with Python
 Course 2
 •
 28 hours
 •
 
-Go Beyond the Numbers: Translate Data into Insights
+#### Go Beyond the Numbers: Translate Data into Insights
 Course 3
 •
 
-The Power of Statistics
+#### The Power of Statistics
 Course 4
 •
 30 hours
 •
-4.8(181 ratings)
 
-Regression Analysis: Simplify Complex Data Relationships
+#### Regression Analysis: Simplify Complex Data Relationships
 Course 5
 •
 24 hours
 •
 
-The Nuts and Bolts of Machine Learning
+#### The Nuts and Bolts of Machine Learning
 Course 6
 •
 29 hours
 •
 
-Google Advanced Data Analytics Capstone
+#### Google Advanced Data Analytics Capstone
 Course 7
 •
 8 hours
