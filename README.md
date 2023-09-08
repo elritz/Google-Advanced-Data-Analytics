@@ -23,7 +23,7 @@ What you'll learn
 
 
 
-#### Foundations of Data Science
+#### Foundations of Data Science ✅
 Course 1
 •
 22 hours
@@ -33,7 +33,7 @@ Course 1
 - Explain how data professionals preserve data privacy and ethics 
 - Develop a project plan considering roles and responsibilities of team members
 - 
-#### Get Started with Python
+#### Get Started with Python ✅
 Course 2
 •
 28 hours
@@ -43,7 +43,7 @@ Course 2
 - Develop a project plan considering roles and responsibilities of team members
 
 
-#### Go Beyond the Numbers: Translate Data into Insights
+#### Go Beyond the Numbers: Translate Data into Insights ✅
 Course 3
 •
 26 hours
