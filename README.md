@@ -52,7 +52,7 @@ Course 3
 - Investigate raw data using Python
 - Create data visualizations using Tableau 
 
-#### The Power of Statistics
+#### The Power of Statistics 🕜
 Course 4
 •
 30 hours
